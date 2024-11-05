@@ -9,6 +9,6 @@ In this project, my objectives are to: <br/>
   • Analyze the collected data to uncover patterns associated with employee attrition. <br/>
   • Develop a predictive model that forecasts whether an employee is likely to leave the company.
 
-Once this has been accomplished, the company will be able to pinpoint to factors that lead to it's employees churning and will be able to provide solutions on increasing an employee's retention and ultimately be beneficial to the company.
+Once this has been accomplished, the company will be able to pinpoint to factors that lead to its employees turnover and will be able to provide solutions on increasing an employee's retention and ultimately be beneficial to the company.
 
 For the full exploratory data analysis and model building, you can find the Jupyter Notebook here.
