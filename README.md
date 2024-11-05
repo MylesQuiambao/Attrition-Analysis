@@ -11,4 +11,4 @@ In this project, my objectives are to: <br/>
 
 Once this has been accomplished, the company will be able to pinpoint to factors that lead to it's employees churning and will be able to provide solutions on increasing an employee's retention and ultimately be beneficial to the company.
 
-The Jupyter Notebook can be found here.
+For the full exploratory data analysis and model building, you can find the Jupyter Notebook here.
