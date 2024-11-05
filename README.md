@@ -13,3 +13,4 @@ The objectives of this project are:
   
 If successful, your analysis and model will enable the HR department to proactively address potential retention risks by targeting the key factors linked to turnover. With hiring being both costly and time-consuming, improving employee retention will yield significant savings and strengthen the overall workforce.
 
+The Jupyter Notebook can be found here.
