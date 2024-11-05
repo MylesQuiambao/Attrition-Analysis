@@ -2,7 +2,7 @@
 A data analysis project wherein I use a binomial logistic regression model to predict employee turnover.
 
 # Project Background
-Salifort Motors' HR department is focused on boosting employee satisfaction to improve retention. The goal for this project is to examine the data and identify patterns that might predict employee attrition.
+Salifort Motors' HR department is focused on boosting employee satisfaction to improve retention. The main goal for this project is to examine the data and identify patterns that might predict employee attrition.
 
 The HR team has a pressing question: What factors are driving employees to leave?
 
