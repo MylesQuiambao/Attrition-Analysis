@@ -2,15 +2,13 @@
 A data analysis project wherein I use a binomial logistic regression model to predict employee turnover.
 
 # Project Background
-Salifort Motors' HR department is focused on boosting employee satisfaction to improve retention. The main goal for this project is to examine the data and identify patterns that might predict employee attrition.
+The HR department of Salifort Motors wants to know which factors make an employee leave the company. Seeing as it is costly and time-consuming to interview, hire, and train an employee.
 
-The HR team has a pressing question: What factors are driving employees to leave?
-
-The objectives of this project are: 
+In this project, my objectives are to: <br/>
 
   • Analyze the collected data to uncover patterns associated with employee attrition. <br/>
   • Develop a predictive model that forecasts whether an employee is likely to leave the company.
-  
-If successful, your analysis and model will enable the HR department to proactively address potential retention risks by targeting the key factors linked to turnover. With hiring being both costly and time-consuming, improving employee retention will yield significant savings and strengthen the overall workforce.
+
+Once this has been accomplished, the company will be able to pinpoint to factors that lead to it's employees churning and will be able to provide solutions on increasing an employee's retention and ultimately be beneficial to the company.
 
 The Jupyter Notebook can be found here.
