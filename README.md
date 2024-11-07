@@ -67,5 +67,10 @@ To retain employees, the following recommendations could be presented to the sta
 * Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts. 
 * High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort. 
 
+# Results and Evaluation of the Logistic Regression Model
 
+![image](https://github.com/user-attachments/assets/1d940380-eddc-4506-ab18-076111f9fbda)
 
+The logistic regression model achieved a precision of 80%, recall of 83%, f1-score of 80% (weighted averages), and accuracy of 83%, on the test set.
+
+For the full EDA and Model building, you can view the Jupyter Notebook here. 
