@@ -42,9 +42,19 @@ Critical findings are as follows:
 
 ![image](https://github.com/user-attachments/assets/6012005c-0a5d-4ebb-874e-fdb56d060bd4)
 
-  • 
+  • A majority of the employees that have left worked at ~280-320 average monthly hours and haven't been promoted within the last 5 years. This is natural as it would be demotivating to stay despite working more hours than average.
+  
+  • Very few employees who were promoted in the last 5 years have left.
 
 ![image](https://github.com/user-attachments/assets/4cdfba74-1e60-4513-b6de-69ac63e2e0f0)
+
+  • The proportions of the number of employees that have left and have stayed seem to be constant across departments. This shows that there are no specific departments affected by the possible factors of turnover.
+
+![image](https://github.com/user-attachments/assets/d6de3c81-a8a3-48b7-af21-1c2ec2931328)
+
+  • This correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores are positively correlated with each other, and satisfaction level is negatively correlated with employee turnover.
+
+![image](https://github.com/user-attachments/assets/13638043-65b8-4d6e-8128-6e242ff51a63)
 
 
 
