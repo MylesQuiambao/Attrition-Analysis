@@ -1,5 +1,4 @@
 # Attrition-Analysis
-A data analysis project wherein I used a binary logistic regression model to predict employee turnover.
 
 # Project Background
 The HR department of Salifort Motors wants to know which factors make an employee leave the company. Seeing as it is costly and time-consuming to interview, hire, and train an employee.
