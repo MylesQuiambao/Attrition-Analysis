@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/2d61672a-a54b-44de-ac9f-1a6134c418f1)# Attrition-Analysis
-A data analysis project wherein I use a binomial logistic regression model to predict employee turnover.
+# Attrition-Analysis
+A data analysis project wherein I used a binary logistic regression model to predict employee turnover.
 
 # Project Background
 The HR department of Salifort Motors wants to know which factors make an employee leave the company. Seeing as it is costly and time-consuming to interview, hire, and train an employee.
@@ -37,6 +37,16 @@ Critical findings are as follows:
   • The fluctuations of salary levels among levels of tenure don't seem to scale positively. This shows that salary levels don't necessarily increase over time. 
 
 ![image](https://github.com/user-attachments/assets/e4cbcf96-39a6-4071-a4f5-d9f9159060f0)
+
+  • Two groups are apparent in the visualization: First are the ones who have overworked and received high evaluation scores and the other are employees who worked lower than average hours and received low evaluation scores. This might give us a sign of a correlation between hours worked and evaluation score.
+
+![image](https://github.com/user-attachments/assets/6012005c-0a5d-4ebb-874e-fdb56d060bd4)
+
+  • 
+
+![image](https://github.com/user-attachments/assets/4cdfba74-1e60-4513-b6de-69ac63e2e0f0)
+
+
 
 
 
