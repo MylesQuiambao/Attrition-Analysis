@@ -72,4 +72,4 @@ To retain employees, the following recommendations could be presented to the sta
 
 The logistic regression model achieved a precision of 80%, recall of 83%, f1-score of 80% (weighted averages), and accuracy of 83%, on the test set.
 
-For the full EDA and Model building, you can view the Jupyter Notebook here. 
+For the full EDA and Model building, you can view the Jupyter Notebook [here](https://nbviewer.org/github/MylesQuiambao/Attrition-Analysis/blob/main/Attrition-Analysis.ipynb).
