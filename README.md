@@ -1,4 +1,4 @@
-# Attrition-Analysis
+# Employee Attrition Analysis and Binary Logistic Regression Modelling
 
 # Project Background
 The HR department of Salifort Motors wants to know which factors make an employee leave the company. Seeing as it is costly and time-consuming to interview, hire, and train an employee.
